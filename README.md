@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/marcus.evjen/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=flat&logo=Gmail&logoColor=white&color=1CA2F1)](mailto:marcus.evjen@gmail.com)
 
-<h1>Hi, there! 👋</h1>
+<h1>Hi, there! 👋🧑🏽‍💻</h1>
 
 I’m Marcus, a 21-year-old tech enthusiast from Norway. I love to inspire and create projects that challenges me, but at the same time that I learn from. You can find me on <a href="https://www.instagram.com/marcus.evjen/">Instagram</a>.
 
