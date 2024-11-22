@@ -1,4 +1,5 @@
 <h1>Hi, I'm Marcus 👋🏼👨🏼‍💻</h1>
+
 ![](Git_banner.png)
 
 
@@ -11,7 +12,6 @@ I am a passionate developer with experience in web development and an interest i
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![]()
 ![]()
 ![]()
 ![]()
